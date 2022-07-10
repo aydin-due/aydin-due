@@ -1,8 +1,8 @@
 ### :japanese_ogre:
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aydin-due&show_icons=true&card_width=20" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aydin-due&show_icons=true&card_width=20" width="45%"/>
 </a>
 <a href="https://github.com/aydin-due/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydin-due&langs_count=8&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydin-due&langs_count=8&layout=compact" width="45%"/>
 </a>
