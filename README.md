@@ -1,4 +1,4 @@
-### :japanese_ogre:
+[my portfolio](https://aydin-due.github.io/)
 
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aydin-due&show_icons=true&custom_title=aydin's%20GitHub%20Stats" width="52%"/>
